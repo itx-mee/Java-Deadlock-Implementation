@@ -13,8 +13,8 @@ public class Task1 implements Runnable{
 
     @Override 
     public void run(){
-        synchronized(paper){
+        // synchronized(paper){ //solution for deadlock
             pen.writeWithPenAndPaper(paper);
-        }
+        // }
     }
 }
