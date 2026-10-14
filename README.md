@@ -3,11 +3,8 @@
 
 # 🔒 Java Deadlock Implementation
 
-*Transactions are permanently blocked because each process holds a resource and waits for another resource held by another process in the set, creating a circular standstill.*
+**Transactions are permanently blocked because each process holds a resource and waits for another resource held by another process in the set, creating a circular standstill.**
 
-![Java](https://img.shields.io/badge/Java-Concurrency-orange?logo=openjdk)
-![Concept](https://img.shields.io/badge/Concept-Deadlock-red)
-![Topics](https://img.shields.io/badge/Topics-Multithreading%20%7C%20Synchronization-blue)
 
 </div>
 
